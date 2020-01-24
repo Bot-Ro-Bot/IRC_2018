@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Pad
+#
+DEF Pad p 0 40 Y Y 1 F N
+F0 "p" 0 100 50 H V C CNN
+F1 "Pad" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+X CopperTrace ~ -50 0 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

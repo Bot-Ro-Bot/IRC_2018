@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name STM32F103C8T6)(type Legacy)(uri "/home/deadpool/Kicad/just for fun/STM32F103C8T6.lib")(options "")(descr ""))
+  (lib (name LogicLevelConverter)(type Legacy)(uri "/home/deadpool/Kicad/just for fun/LogicLevelConverter.lib")(options "")(descr ""))
+  (lib (name BuckBoostConverter)(type Legacy)(uri "/home/deadpool/Kicad/just for fun/BuckBoostConverter.lib")(options "")(descr ""))
+  (lib (name l298NH)(type Legacy)(uri "/home/deadpool/Kicad/just for fun/l298NH.lib")(options "")(descr ""))
+  (lib (name L298HN_Module)(type Legacy)(uri "/home/deadpool/Kicad/just for fun/L298HN_Module.lib")(options "")(descr ""))
+  (lib (name SolderPad)(type Legacy)(uri "/home/deadpool/Kicad/just for fun/SolderPad.lib")(options "")(descr ""))
+)

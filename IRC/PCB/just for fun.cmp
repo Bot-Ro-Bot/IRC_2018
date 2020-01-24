@@ -1,0 +1,195 @@
+Cmp-Mod V01 Created by PcbNew   date = Thu 22 Nov 2018 21:56:40 +0545
+
+BeginCmp
+TimeStamp = 5C118518
+Path = /5BF26B8E
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = Diode_THT:D_5W_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BBA3
+Path = /5BD76DC8
+Reference = U1;
+ValeurCmp = BluePill;
+IdModule  = BluePill:STM32BluePill;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C113C89
+Path = /5BF18DF6
+Reference = Battery1;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C112D00
+Path = /5C0D1E4E
+Reference = J1;
+ValeurCmp = Screw_Terminal_01x03;
+IdModule  = TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type094_RT03503HBLU_1x03_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BBD1
+Path = /5BEC16B0
+Reference = DRIVER_B1;
+ValeurCmp = Conn_01x06_Female;
+IdModule  = BluePill:L298N;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BB65
+Path = /5BF09723
+Reference = BZ1;
+ValeurCmp = Buzzer;
+IdModule  = Buzzer_Beeper:Buzzer_12x9.5RM7.6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BBE1
+Path = /5BEC17C5
+Reference = DRIVER_A1;
+ValeurCmp = Conn_01x06_Female;
+IdModule  = BluePill:L298N;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BBC1
+Path = /5BF3A712
+Reference = LD1;
+ValeurCmp = Laserdiode_1A3C;
+IdModule  = BluePill:LASER;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BBB7
+Path = /5BF77E25
+Reference = U3;
+ValeurCmp = SparkfunLogicLevelConverter;
+IdModule  = BluePill:Logic_level;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BB73
+Path = /5BF47D33
+Reference = U2;
+ValeurCmp = BuckBoost;
+IdModule  = BuckBoost:BuckBoostConverter(5A);
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BB58
+Path = /5BF37571
+Reference = J13;
+ValeurCmp = Conn_01x03_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BB18
+Path = /5BD79C3B
+Reference = J7;
+ValeurCmp = Conn_01x04_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BACB
+Path = /5BEF3499
+Reference = GND_RAIL1;
+ValeurCmp = Conn_01x06_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04BA64
+Path = /5BEF364E
+Reference = Servo_Rail1;
+ValeurCmp = Conn_01x06_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B9FD
+Path = /5BEF35CE
+Reference = POS_RAIL1;
+ValeurCmp = Conn_01x06_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B977
+Path = /5BD78FF0
+Reference = GREEN1;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B965
+Path = /5BD791FA
+Reference = RED1;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B953
+Path = /5BD791B4
+Reference = BLUE1;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B941
+Path = /5BD7E4AF
+Reference = Q1;
+ValeurCmp = BC547;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B92F
+Path = /5BD7E59E
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B918
+Path = /5BD794B2
+Reference = R2;
+ValeurCmp = 330;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B901
+Path = /5BD79516
+Reference = R3;
+ValeurCmp = 330;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B8EA
+Path = /5BD79550
+Reference = R4;
+ValeurCmp = 330;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C04B8D3
+Path = /5BF18DF6
+Reference = Battery1;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal;
+EndCmp
+
+EndListe
