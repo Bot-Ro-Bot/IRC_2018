@@ -1,0 +1,4 @@
+The flysky i6 transmitter is capable of sending 14 channels to a receiver. It sends 32 bytes in total where the first two bytes(0x2040) are headers and the last two bytes are checksum/footer. Remaining 28 bytes in the middle is the real deal. A pair of bytes represents a channel. The first byte is the higher byte and the consequent one is the lower byte.
+You can find more details at :: https://basejunction.wordpress.com/2015/08/23/en-flysky-i6-14-channels-part1/
+
+-deadpool
